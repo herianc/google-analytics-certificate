@@ -1,4 +1,4 @@
-# Estudo de caso 1: Cyclistic 
+# Estudo de caso: Cyclistic 
 
 Estudo de caso realizado durante a conclusão do certificado profissional de Analista de dados do Google ofertado pela Coursera. Neste estudo, foi proposto a análise de dados de uma empresa de compartilhamento de bicicletas de Chicago e as lideranças queriam aumentar a adesão de clientes anuais. Logo, foi proposta a análise do uso entre os usuários do sistema da empresa. 
 
